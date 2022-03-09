@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300&display=swap');
+
+
+.text-color{
+   color: blueviolet;
+   background-color: palevioletred;
+}
+#color{
+    color: blueviolet;
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Almarai', sans-serif; 
+}
+p{
+    font-weight: 900;
+}
